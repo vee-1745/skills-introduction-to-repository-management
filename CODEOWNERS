@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @vee-1745
+/src/backend/database.py      @vee-1745
+/src/backend/routers/auth.py  @vee-1745
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @vee-1745
